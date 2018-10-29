@@ -123,12 +123,11 @@ textarea {
   resize: vertical;
 }
 
-/*input:hover, textarea:hover,
-input:focus, textarea:focus {
-	background-color:white;
+input:hover, textarea:hover, input:focus, textarea:focus {
+  background-color: white;
 }
 
-#button-blue{
+/*#button-blue{
 	font-family: 'Montserrat', Arial, Helvetica, sans-serif;
 	float:left;
 	width: 100%;
