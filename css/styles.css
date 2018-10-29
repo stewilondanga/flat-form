@@ -145,12 +145,12 @@ input:hover, textarea:hover, input:focus, textarea:focus {
   font-weight: 700;
 }
 
-/*#button-blue:hover{
-	background-color: rgba(0,0,0,0);
-	color: #0493bd;
+#button-blue:hover {
+  background-color: rgba(0, 0, 0, 0);
+  color: #0493bd;
 }
 
-.submit:hover {
+/*.submit:hover {
 	color: #3498db;
 }
 
