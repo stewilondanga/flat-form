@@ -20,11 +20,11 @@ html {
   height: 1.5em;
 }
 
-/*#feedback-page{
-	text-align:center;
+#feedback-page {
+  text-align: center;
 }
 
-#form-main{
+/*#form-main{
 	width:100%;
 	float:left;
 	padding-top:0px;
