@@ -64,16 +64,16 @@ html {
   border: 3px solid rgba(0, 0, 0, 0);
 }
 
-/*.feedback-input:focus{
-	background: #fff;
-	box-shadow: 0;
-	border: 3px solid #3498db;
-	color: #3498db;
-	outline: none;
+.feedback-input:focus {
+  background: #fff;
+  box-shadow: 0;
+  border: 3px solid #3498db;
+  color: #3498db;
+  outline: none;
   padding: 13px 13px 13px 54px;
 }
 
-.focused{
+/*.focused{
 	color:#30aed6;
 	border:#30aed6 solid 3px;
 }
