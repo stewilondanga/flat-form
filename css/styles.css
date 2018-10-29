@@ -150,11 +150,11 @@ input:hover, textarea:hover, input:focus, textarea:focus {
   color: #0493bd;
 }
 
-/*.submit:hover {
-	color: #3498db;
+.submit:hover {
+  color: #3498db;
 }
 
-.ease {
+/*.ease {
 	width: 0px;
 	height: 74px;
 	background-color: #fbfbfb;
