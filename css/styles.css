@@ -24,13 +24,13 @@ html {
   text-align: center;
 }
 
-/*#form-main{
-	width:100%;
-	float:left;
-	padding-top:0px;
+#form-main {
+  width: 100%;
+  float: left;
+  padding-top: 0px;
 }
 
-#form-div {
+/*#form-div {
 	background-color:rgba(72,72,72,0.4);
 	padding-left:35px;
 	padding-right:35px;
