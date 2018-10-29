@@ -1,3 +1,4 @@
+@import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
 /*body {
   text-align: center;
   font-family: courier;
@@ -20,8 +21,6 @@
 .my_social a img {
   height: 1.5em;
 }
-
-@import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
 
 html{    background:url(http://thekitemap.com/images/feedback-img.jpg) no-repeat;
   background-size: cover;
@@ -87,6 +86,7 @@ html{    background:url(http://thekitemap.com/images/feedback-img.jpg) no-repeat
 }
 
 /* Icons ---------------------------------- */
+
 /*#name{
 	background-image: url(http://rexkirby.com/kirbyandson/images/name.svg);
 	background-size: 30px 30px;
