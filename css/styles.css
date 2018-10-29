@@ -165,12 +165,12 @@ input:hover, textarea:hover, input:focus, textarea:focus {
   transition: .3s ease;
 }
 
-/*.submit:hover .ease{
-  width:100%;
-  background-color:white;
+.submit:hover .ease {
+  width: 100%;
+  background-color: white;
 }
 
-@media only screen and (max-width: 580px) {
+/*@media only screen and (max-width: 580px) {
 	#form-div{
 		left: 3%;
 		margin-right: 3%;
