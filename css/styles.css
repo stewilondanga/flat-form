@@ -102,14 +102,14 @@ html {
   background-repeat: no-repeat;
 }
 
-/*#email:focus{
-	background-image: url(http://rexkirby.com/kirbyandson/images/email.svg);
-	background-size: 30px 30px;
+#email:focus {
+  background-image: url(http://rexkirby.com/kirbyandson/images/email.svg);
+  background-size: 30px 30px;
   background-position: 11px 8px;
-	background-repeat: no-repeat;
+  background-repeat: no-repeat;
 }
 
-#comment{
+/*#comment{
 	background-image: url(http://rexkirby.com/kirbyandson/images/comment.svg);
 	background-size: 30px 30px;
 	background-position: 11px 8px;
